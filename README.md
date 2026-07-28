@@ -108,7 +108,7 @@ Pregunta:
 
 Respuesta:
 
-El onboarding es un proceso de integración diseñado para acelerar la adaptación de los nuevos colaboradores mediante capacitaciones, seguimiento y objetivos definidos para los primeros meses.
+
 <img width="1259" height="672" alt="image" src="https://github.com/user-attachments/assets/bf3bd5e0-2056-4575-afa9-1dc707b7001c" />
 
 ## Autor
