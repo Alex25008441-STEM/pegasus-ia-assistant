@@ -1,4 +1,3 @@
-# pegasus-ia-assistant
 
 # Pegasus IA Assistant
 
@@ -91,12 +90,15 @@ Ejecutar aplicación:
 streamlit run app.py
 ```
 
+<img width="1327" height="728" alt="image" src="https://github.com/user-attachments/assets/db286528-9306-4d9c-85cb-4a76832cff6b" />
+
 ## Ejemplos de preguntas
 
 - ¿De qué trata el onboarding?
 - ¿Qué actividades incluye el onboarding?
 - ¿Cuál es el objetivo del plan 30/60/90?
 - ¿Qué responsabilidades tiene un nuevo desarrollador?
+<img width="1247" height="649" alt="image" src="https://github.com/user-attachments/assets/8184c096-7749-4e21-902e-52d1dfdcbd5b" />
 
 ## Ejemplo de respuesta
 
@@ -107,9 +109,10 @@ Pregunta:
 Respuesta:
 
 El onboarding es un proceso de integración diseñado para acelerar la adaptación de los nuevos colaboradores mediante capacitaciones, seguimiento y objetivos definidos para los primeros meses.
+<img width="1259" height="672" alt="image" src="https://github.com/user-attachments/assets/bf3bd5e0-2056-4575-afa9-1dc707b7001c" />
 
 ## Autor
 
-Alejandro González
+Alejandro Gonzalez
 Challenge Alura Agente IA
 Oracle Next Education
